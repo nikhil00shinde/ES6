@@ -24,3 +24,9 @@ console.log(ans);
 // Map it will work on Array
 // it take input as function
 // and return output as array
+
+
+// When we perform mathematical operation on string it give NaN (not a number)
+// let s = "some string";
+// let k = s * 2;
+// k => NaN
